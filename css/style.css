@@ -1,0 +1,22 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+  }
+h1 {
+    font-size: 50px;
+    padding-left: 500px;
+}
+body, html {
+    width:auto;
+    color:rgb(6, 9, 93);
+    overflow-x:hidden;
+    box-sizing:border-box;
+
+}  
+img {
+    width: 600px ;
+    padding-left: 500px;
+}
+body{
+    background-image: linear-gradient(rgb(86, 245, 128), rgb(202, 196, 196));
+}
